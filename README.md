@@ -6,7 +6,7 @@
 
 **Student ID:** 47762028
 
-**Repository Form:** https://github.com/Albert-Quainoo/ai-course-lab0
+**Repository Link:** https://github.com/Albert-Quainoo/ai-course-lab0
 
 ## Description:
 This repository contains:
